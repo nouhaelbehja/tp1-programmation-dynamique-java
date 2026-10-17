@@ -1,0 +1,22 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Java
+*.class
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Informations sensibles
+.env
+.env.*
+*.key
+*.pem
